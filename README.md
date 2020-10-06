@@ -1,4 +1,4 @@
-# Computational_Material_Science_Engineering
+# Computational Material Science and Engineering
 
 # Micro Scale Simulation
 
