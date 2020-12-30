@@ -24,5 +24,21 @@ In this final project, I utilized LAMMPS open source simulation software in orde
 
 ## Macro Scale Simuation 
 
+1. Data Analysis with Matlab Software 
+2. Finite Element Analysis with OOF2
+3. Phase Diagram Generation with ThermoCalc 
+4. Final Project
+
+### 1. Data Analysis with Matlab Software
+In this module, given data sets pertaining to material moisture and compressive strength, Matlab analytical software is utilized to perform data analysis on this relationship. 
+
+### 2. Finite Element Analysis with OOF2 
+Finite element analysis, is the utilization is used in order to simulate and assess more complex problems. In this way, the problem is broken up into smaller parts called finite elements. This breaking down of the problem will, in turn, enable for the creation of differential equations that can be solved in order to collect metrics for certain types of variation. An example of this can be seen through the assesment of thermal residual stress on a crack-tip piece of Aluminum.
+
+### 3. Phase Diagram Generation with ThermoCalc
+In this module, ThermoCalc is used to create phase diagrams. This is done so through the software's ability to roughly estimate these diagrams utilizing themordynamic properties.
+
+### 4. Final project
+In this final project, I chose to utilize OOF2 software in order to perform a thermal residual study on Silicon Nitride. By utilizing a micrograph for this substance that was found online, a study was conducted to assess the thermal residual stress between the two phases of crystalline and amorphous material as a heat source of 500C is applied. 
 
 
